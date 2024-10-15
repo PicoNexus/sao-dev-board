@@ -1,5 +1,5 @@
 (kicad_sch
-	(version 20240812)
+	(version 20241004)
 	(generator "eeschema")
 	(generator_version "8.99")
 	(uuid "da07a605-51c8-472a-bc98-2cb973bd5c58")
@@ -11,7 +11,9 @@
 	)
 	(lib_symbols
 		(symbol "Bornhack-Make-Tradition-Badge-rescue:C"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0.254)
 			)
@@ -207,7 +209,8 @@
 			(symbol "GND_1_1"
 				(pin power_in line
 					(at 0 0 270)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "GND"
 						(effects
 							(font
@@ -227,7 +230,9 @@
 			(embedded_fonts no)
 		)
 		(symbol "Bornhack-Make-Tradition-Badge-rescue:R"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
 			)
@@ -1057,7 +1062,8 @@
 			(symbol "VCC_1_1"
 				(pin power_in line
 					(at 0 0 90)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "VCC"
 						(effects
 							(font
