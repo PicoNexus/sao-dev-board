@@ -4,7 +4,7 @@ This is a development and debugging platform for SAOs, standing in for a badge, 
 
 In addition to the Pico, there is a small OLED screen, a few LEDs, reset button and a 5-way navigation switch, to support the badge features.
 
-There is also a set of jumpers and 2 4mm bananaplugs, meant bro different ways to power the board and SAO, or for measuring current usage of the SAO using an external tool (eg multimeter or power profiler)
+There is also a set of jumpers and 2 4mm bananaplugs, meant for different ways to power the board and SAO, or for measuring current usage of the SAO using an external tool (eg multimeter or power profiler)
 
 ## Designed in KiCad v8.99 (nightly)
 
