@@ -1,5 +1,7 @@
 # SAO Development Board
 
+![SAO Development Board](https://github.com/flummer/sao-dev-board/raw/main/IMAGES/DSC_1121.jpg "SAO Development Board with DMM SAO")
+
 This is a development and debugging platform for SAOs, standing in for a badge, and based on the Raspberry Pi Pico family of microcontroller boards.
 
 In addition to the Pico, there is a small OLED screen, a few LEDs, reset button and a 5-way navigation switch, to support the badge features.
